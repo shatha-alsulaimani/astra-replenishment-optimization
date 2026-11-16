@@ -14,7 +14,7 @@ A quantitative decision model built in **Excel Solver**, in five parts.
 If the chain can live with some risk, full AI forecasting has the best expected value. If not, piloting at two stores never loses money. Commissioning a market study (cost 3K) is worth it, because its sample information is worth 5K.
 
 ## Files
-- `ASTRA_Markets_Solution.xlsx`: model, Solver answer and sensitivity reports, decision table
+- [`ASTRA_Markets_Solution.xlsx`](ASTRA_Markets_Solution.xlsx): model, Solver answer and sensitivity reports, decision table
 
 ## Skills
 Excel Solver · LP formulation · Sensitivity / shadow prices · NLP · Decision trees · EMV, EVPI, EVSI
